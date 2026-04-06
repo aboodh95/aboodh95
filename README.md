@@ -3,12 +3,12 @@
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║      ░█████╗░██████╗░░█████╗░░█████╗░██████╗░                ║
-║      ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗               ║
-║      ███████║██████╦╝██║░░██║██║░░██║██║░░██║               ║
-║      ██╔══██║██╔══██╗██║░░██║██║░░██║██║░░██║               ║
-║      ██║░░██║██████╦╝╚█████╔╝╚█████╔╝██████╔╝               ║
-║      ╚═╝░░╚═╝╚═════╝░░╚════╝░░╚════╝░╚═════╝                ║
+║      ░█████╗░██████╗░░█████╗░░█████╗░██████╗░                 ║
+║      ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗                 ║
+║      ███████║██████╦╝██║░░██║██║░░██║██║░░██║                 ║
+║      ██╔══██║██╔══██╗██║░░██║██║░░██║██║░░██║                 ║
+║      ██║░░██║██████╦╝╚█████╔╝╚█████╔╝██████╔╝                 ║
+║      ╚═╝░░╚═╝╚═════╝░░╚════╝░░╚════╝░╚═════╝                  ║
 ║                                                               ║
 ║          Senior Power Platform & Dynamics 365 Architect       ║
 ║                  HA Consultancy  ·  Dubai, UAE                ║
@@ -115,7 +115,7 @@ Data:
 <tr>
 <td width="50%">
 
-### 🤖 Callivox
+### 🤖 [Callivox](https://callivox.com/)
 > AI agent platform for automating customer interactions via phone calls and WhatsApp. Bridges conversational AI with real business operations.
 
 `AI Agents` `NLP` `WhatsApp API` `Telephony`
@@ -123,7 +123,7 @@ Data:
 </td>
 <td width="50%">
 
-### 🌍 Fieldiu Platform
+### 🌍 [Fieldiu Platform](https://fieldiu.com/)
 > Field service SaaS with scheduling, IoT monitoring, and automation workflows. Powers pest control, environmental monitoring, and field operations.
 
 `React` `Dataverse` `IoT` `Resco` `AWS IoT Core`
@@ -133,8 +133,8 @@ Data:
 <tr>
 <td width="50%">
 
-### 🧾 ZATCA / Peppol Integration
-> Phase 2 e-invoicing extension for Business Central targeting AppSource. Spearheading UAE Peppol Service Provider technical accreditation.
+### 🧾 [Faturly — ZATCA / Peppol](http://faturly.ha-consultancy.com/)
+> Phase 2 e-invoicing solution for Business Central targeting AppSource. Spearheading UAE Peppol Service Provider technical accreditation.
 
 `Business Central` `X++` `e-Invoicing` `AppSource`
 
@@ -145,24 +145,6 @@ Data:
 > Custom PCF control for Dynamics 365 CRM, published and available on **pcf.gallery**. Interactive map views embedded directly in model-driven apps.
 
 `PCF` `TypeScript` `Google Maps API` `Dynamics 365`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 HASalesManagement
-> Custom Dynamics 365 CRM solution covering Sales & Lead Management — including custom tables, complex form layouts, C# plugins, and security role architecture.
-
-`D365 CRM` `C# Plugins` `FetchXML` `Security Roles`
-
-</td>
-<td width="50%">
-
-### 🎙️ Noura — Voice Assistant
-> In-system voice assistant for the Fieldiu platform enabling task execution through natural language. An early practical AI agent deployment in field service.
-
-`Voice AI` `NLP` `Power Platform` `Automation`
 
 </td>
 </tr>
